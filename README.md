@@ -16,7 +16,7 @@ The project consists of an AutoIt script that displays the mouse position on the
 
 <p align="center">
 Mouse coordinates tooltip example: <br/>
-<img src="https://i.imgur.com/rdXIMLF.png" height="80%" width="80%" alt="Dell Service Tag and Express Service Code"/>
+<img src="https://i.imgur.com/rdXIMLF.png" height="80%" width="80%" alt="Mouse coordinates tooltip example"/>
 <br />
 <br />
 </p>
