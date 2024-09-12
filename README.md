@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The project consists of an AutoIt script that displays the mouse position on the screen next to the mouse pointer. If F9 is pressed a popup displays the last coordinates of the mouse pointer. The ESC key exits the program.<br/>
+This project consists of an AutoIt script that displays the mouse position on the screen next to the mouse pointer. If F9 is pressed a popup displays the last coordinates of the mouse pointer. The ESC key exits the program.<br/>
 
 <h2>Language</h2>
 
